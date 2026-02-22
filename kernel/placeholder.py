@@ -4,7 +4,7 @@ Temporary placeholder logic
 """
 
 HarrisonOS = 1
-if HarrisonOS == 1
+if HarrisonOS == 1:
   print ('hello world')
-else
+else:
   print ('hello world')
