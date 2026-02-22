@@ -31,26 +31,6 @@ HarrisonOS aims to provide a clean and structured foundation for building a mode
 No legacy baggage. No unnecessary abstractions. No chaos.
 
 ---
-
-## Project Structure
-
-
-HarrisonOS/
-├── boot/ # Bootloader and entry stage
-├── kernel/ # Core kernel logic
-├── arch/ # Architecture-specific code
-├── drivers/ # Hardware drivers
-├── lib/ # Shared utilities
-├── include/ # Public headers
-├── tools/ # Build and development tools
-├── docs/ # Technical documentation
-├── build/ # Build artifacts (ignored)
-
-
-The structure enforces strict boundaries between responsibilities.
-
----
-
 ## Current Status
 
 🚧 Early development stage.
